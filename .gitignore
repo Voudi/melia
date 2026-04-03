@@ -176,3 +176,7 @@ $RECYCLE.BIN/
 # Mac crap
 .DS_Store
 *.lnk
+
+# Linux crap
+linuxparams.txt
+start-linux.sh
